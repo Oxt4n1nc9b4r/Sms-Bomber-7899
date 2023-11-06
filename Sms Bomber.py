@@ -23,7 +23,7 @@ logo3="""
 ▓▓▓▓▓▓█░░░█░░░█░░█░░░███░░░░
 ▓▓▓▓▓▓█░░░█░░░█░░█░░░█░░█░░░
 ▓▓▓▓▓▓█░░░░░░░░░░░░░░█░░█░░░
-▓▓▓▓▓▓█░░T4N1N - C9B4R░░░░█░░░
+▓▓▓▓▓▓█OxT4N1N - C9B4R░░░░█░░░
 ▓▓▓▓▓▓█░░░░░░░░░░░░░░██░░░░░
 ▓▓▓▓▓▓█████░░░░░░░░░██░░░░░░
 
@@ -42,7 +42,7 @@ logo3="""
 \033[1;39m     ┃ \x1b[1;95m❣︎[𖣘]☔︎\x1b[1;96m𝙏𝙊𝙊𝙇𝙎 𝙉𝘼𝙈𝙀\033[1;34m  : [★]𝗦𝗠𝗦 𝗕𝗢𝗢𝗠𝗕𝗘𝗥\033[1;39m     ┃
 \033[1;39m     ┃ \x1b[1;95m❣︎[𖣘]☔︎\x1b[1;96m𝙏𝙊𝙊𝙇𝙎 𝙎𝙏𝘼𝙏𝙐𝙎\033[1;34m: [★]𝗙𝗥𝗘𝗘\033[1;39m            ┃
  \033[1;39m    ┗━━━━━━━━━━━━━━━━━━━\033[1;31𝗖𝟵𝗕𝟰𝗥\033[1;39m━━━━━━━━━━━━━━━━━━━━┛"""
-os.system('espeak -a 300 "Author T4N1N C9B4R "')
+os.system('espeak -a 300 "Author OXT4N1N C9B4R "')
 os.system('espeak -a 300 "Facebook  T4N1N C9B4R "')
 os.system('espeak -a 300 "Whathapp ****"')
 os.system('espeak -a 300 "Github T4N1N - 𝗖𝟵𝗕𝟰𝗥 "')
@@ -93,21 +93,21 @@ while amount>ses:
   sent1=requests.get(url1,headers=headers1)
   if sent1.status_code==200:
     ses+=1
-    print(f"\n{ses}  \033[38;5;46mT4N1N-𝟰𝟰𝟰-𝗖𝟵𝗕𝟰𝗥 SMS WAS SENT DONE😈")
+    print(f"\n{ses}  \033[38;5;46mOxT4N1N-𝟰𝟰𝟰-𝗖𝟵𝗕𝟰𝗥 SMS WAS SENT DONE😈")
   else:
     pass
   
   sent2=requests.get(url2,headers=headers2)
   if sent2.status_code==200:
     ses+=1
-    print(f"\n{ses} \033[38;5;46mT4N1N-𝟰𝟰𝟰-𝗖𝟵𝗕𝟰𝗥 SMS WAS SENT DONE😈")
+    print(f"\n{ses} \033[38;5;46mOxT4N1N-𝟰𝟰𝟰-𝗖𝟵𝗕𝟰𝗥 SMS WAS SENT DONE😈")
   else:
     pass
   
   send3=requests.post("https://api.redx.com.bd/v1/user/signup",headers=headers3,data=data)
   if send3.status_code==200:
     ses+=1
-    print(f"\n{ses} \033[38;5;46T4N1N-𝟰𝟰𝟰-𝗖𝟵𝗕𝟰𝗥 SMS WAS SENT DONE😈")
+    print(f"\n{ses} \033[38;5;46mOxT4N1N--𝗖𝟵𝗕𝟰𝗥 SMS WAS SENT DONE😈")
     
   else:
     pass
@@ -115,3 +115,5 @@ os.system("clear")
 
 
                             
+# dekhay dili to tor asol rup 
+#ne akon copy kor kutta
