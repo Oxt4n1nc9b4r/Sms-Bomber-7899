@@ -1,7 +1,9 @@
 # Sms-Bomber-7899
 
 # Install
+```
 
+```
 pkg update && pkg upgrade
 ```
 
