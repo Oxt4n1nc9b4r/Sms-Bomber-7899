@@ -23,5 +23,5 @@ cd Sms-Bomber-7899
 ```
 
 ```
-python 'Sms Bomber.py'
+python Sms Bomber.py
 ```
