@@ -10,7 +10,7 @@ os.system("figlet T4N1N C9B4R ")
 os.system('espeak -a 300 "Fuck Him"')
 os.system('espeak -a 300 "Author T4N1N "')
 os.system("git pull")
-import os.requests,time
+import os,requests,time
 time.sleep(1)
 os.system("clear")
 os.system("xdg-open https://youtu.be/raS1F1ex7Ms?feature=shared")
